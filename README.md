@@ -5,8 +5,6 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [viswaah.github.io](http://viswaah.github.io)
-* ✉️  You can contact me at [vishwajenvish@gmail.com](mailto:vishwajenvish@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am Iron Man
